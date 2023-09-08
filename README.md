@@ -10,7 +10,7 @@ The boot camp included the following concepts
 - Accessing Camera            | [view code](https://github.com/RanjanRaj07/OpenCV_basics/blob/main/cv_camerAccess.py)
 - Writing into a Video        | [view notebook](https://github.com/RanjanRaj07/OpenCV_basics/blob/main/VideoWriting.ipynb)
 - Camera Filters              | [view code](https://github.com/RanjanRaj07/OpenCV_basics/blob/main/cv_camera_filters.py)
-- Image Alignment             | [view notebook](https://github.com/RanjanRaj07/OpenCV_basics/blob/main/Image_Alignment.ipynb)
+- Image Alignment             | [view notebook](https://github.com/RanjanRaj07/OpenCV_basics/blob/main/Image_Aligning.ipynb)
 - Creating Panorama           | [view notebook](https://github.com/RanjanRaj07/OpenCV_basics/blob/main/Creating_Panoramas.ipynb)
 - Creating HDR Images         | [view notebook](https://github.com/RanjanRaj07/OpenCV_basics/blob/main/HDR_Image.ipynb)
 - Object Tracking             | [view notebook](https://github.com/RanjanRaj07/OpenCV_basics/blob/main/Object_Tracking.ipynb)
